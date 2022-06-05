@@ -171,7 +171,7 @@ document.getElementById('frmsearch').onsubmit = function() {
     }    
  
     }
-     else if("sahil info" in query){
+     else if(query=="sahil info"){
         
         window.location = "https://linktr.ee/_rishabh_yaduvanshi_"
         return true
